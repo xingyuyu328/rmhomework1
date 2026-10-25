@@ -4,7 +4,18 @@
 
 * ***20263004494***
 
-  <video src="D:\rm\流水灯作业\video_20261025_092814.mp4" controls=""></video>
+  
+  				HTML
+  				
+  					
+  				
+  				
+  						
+  				
+  			
+  		
+  		<video src="C:\Users\hp\Downloads\video_20261025_095318.mp4" controls=""></video>
+  		
 
 ![image-20261025094058079](C:\Users\hp\AppData\Roaming\Typora\typora-user-images\image-20261025094058079.png)
 
